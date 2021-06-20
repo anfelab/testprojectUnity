@@ -1,0 +1,1538 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f022ebd1c7201489368af54695c5ab, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Virtual Acoustics
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 1307a1eecc71c74d93cab45a41306807
+    ParentPath: Virtual Acoustics\Default Work Unit
+    guid: 1307a1eecc71c74d93cab45a41306807
+    GuidInternal: 
+    m_lastTime: -8585774841701323595
+    List: []
+  - PhysicalPath: Virtual Acoustics\Factory Acoustic Textures.wwu
+    PathAndIcons:
+    - ElementName: Virtual Acoustics
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Factory Acoustic Textures
+      ObjectType: 12
+      guid: 6b663d46a83ca54f8b4a5fef12b883f6
+    ParentPath: Virtual Acoustics\Factory Acoustic Textures
+    guid: 6b663d46a83ca54f8b4a5fef12b883f6
+    GuidInternal: 
+    m_lastTime: -8585775000378968954
+    List:
+    - name: Acoustic_Banner
+      guid: f2532d2fccda8e408b8898b1b52a26d6
+      id: 4168643977
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Acoustic_Banner
+        ObjectType: 15
+        guid: f2532d2fccda8e408b8898b1b52a26d6
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Acoustic_Banner
+    - name: Anechoic
+      guid: 32c20a8be202de4ebeacfdd1a900e3ed
+      id: 1873957695
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Anechoic
+        ObjectType: 15
+        guid: 32c20a8be202de4ebeacfdd1a900e3ed
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Anechoic
+    - name: Brick
+      guid: a9a586b004f2534ca838bdb18b18f6d6
+      id: 504532776
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Brick
+        ObjectType: 15
+        guid: a9a586b004f2534ca838bdb18b18f6d6
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Brick
+    - name: Carpet
+      guid: 8975223456dc604296c4b9f4b669092b
+      id: 2412606308
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Carpet
+        ObjectType: 15
+        guid: 8975223456dc604296c4b9f4b669092b
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Carpet
+    - name: Concrete
+      guid: 001cf85c9628e04aaf7c3080bdaba682
+      id: 841620460
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Concrete
+        ObjectType: 15
+        guid: 001cf85c9628e04aaf7c3080bdaba682
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Concrete
+    - name: Cork_Tiles
+      guid: 19c9d2305f92434189063dbb3c4ae5e2
+      id: 3195498748
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Cork_Tiles
+        ObjectType: 15
+        guid: 19c9d2305f92434189063dbb3c4ae5e2
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Cork_Tiles
+    - name: Curtains
+      guid: 339ee6f8975c6849b508a1535f2d66e8
+      id: 2928161104
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Curtains
+        ObjectType: 15
+        guid: 339ee6f8975c6849b508a1535f2d66e8
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Curtains
+    - name: Drywall
+      guid: f4e3a4680b4c8746a8b8a84db93dbc8f
+      id: 3670307564
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Drywall
+        ObjectType: 15
+        guid: f4e3a4680b4c8746a8b8a84db93dbc8f
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Drywall
+    - name: Fabric
+      guid: 32d581836edbed4ea7a3bc7b0a0b8ba8
+      id: 1970351858
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Fabric
+        ObjectType: 15
+        guid: 32d581836edbed4ea7a3bc7b0a0b8ba8
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Fabric
+    - name: Mountain
+      guid: 313793c51a00b44a98dd9b033a8c8eab
+      id: 513139656
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Mountain
+        ObjectType: 15
+        guid: 313793c51a00b44a98dd9b033a8c8eab
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Mountain
+    - name: Textures
+      guid: a3121e7828e3df4a8bba5fb89c74031d
+      id: 1276632493
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures
+    - name: Tile
+      guid: c4da82a82a13b747ba9db9907ba29cc0
+      id: 2637588553
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Tile
+        ObjectType: 15
+        guid: c4da82a82a13b747ba9db9907ba29cc0
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Tile
+    - name: Wood
+      guid: 96bcff1fe76f9e48ba6c7c14a71391ae
+      id: 2058049674
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Wood
+        ObjectType: 15
+        guid: 96bcff1fe76f9e48ba6c7c14a71391ae
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Wood
+    - name: Wood_Bright
+      guid: e5d1857ba2c1634e9a13cec54b641adc
+      id: 4262522749
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Wood_Bright
+        ObjectType: 15
+        guid: e5d1857ba2c1634e9a13cec54b641adc
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Bright
+    - name: Wood_Deep
+      guid: 8e474652dac50c4ea0dec98d1479529a
+      id: 1755085759
+      PathAndIcons:
+      - ElementName: Virtual Acoustics
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Factory Acoustic Textures
+        ObjectType: 12
+        guid: 6b663d46a83ca54f8b4a5fef12b883f6
+      - ElementName: Textures
+        ObjectType: 4
+        guid: a3121e7828e3df4a8bba5fb89c74031d
+      - ElementName: Wood_Deep
+        ObjectType: 15
+        guid: 8e474652dac50c4ea0dec98d1479529a
+      Path: Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Deep
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Master-Mixer Hierarchy
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 445ef209459d5143b390376734b20cfa
+    ParentPath: Master-Mixer Hierarchy\Default Work Unit
+    guid: 445ef209459d5143b390376734b20cfa
+    GuidInternal: 
+    m_lastTime: -8585774841702348753
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 445ef209459d5143b390376734b20cfa
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: SoundBanks
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 1660cfa76fc76f419637f5696d90a46e
+    ParentPath: SoundBanks\Default Work Unit
+    guid: 1660cfa76fc76f419637f5696d90a46e
+    GuidInternal: 
+    m_lastTime: -8585774136341777935
+    List: []
+  - PhysicalPath: SoundBanks\env.wwu
+    PathAndIcons:
+    - ElementName: SoundBanks
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 1660cfa76fc76f419637f5696d90a46e
+    - ElementName: env
+      ObjectType: 12
+      guid: 4724ea6203f083489301e40702a4c9cf
+    ParentPath: SoundBanks\Default Work Unit\env
+    guid: 4724ea6203f083489301e40702a4c9cf
+    GuidInternal: 
+    m_lastTime: -8585774136341678208
+    List:
+    - name: env_m01
+      guid: 094dbd5d9451234e8931456c561d6a1b
+      id: 792818075
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 1660cfa76fc76f419637f5696d90a46e
+      - ElementName: env
+        ObjectType: 12
+        guid: 4724ea6203f083489301e40702a4c9cf
+      - ElementName: env_m01
+        ObjectType: 7
+        guid: 094dbd5d9451234e8931456c561d6a1b
+      Path: SoundBanks\Default Work Unit\env\env_m01
+  - PhysicalPath: SoundBanks\Pl.wwu
+    PathAndIcons:
+    - ElementName: SoundBanks
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 1660cfa76fc76f419637f5696d90a46e
+    - ElementName: Pl
+      ObjectType: 12
+      guid: 5b5e29c3881db542b79490b995064fbc
+    ParentPath: SoundBanks\Default Work Unit\Pl
+    guid: 5b5e29c3881db542b79490b995064fbc
+    GuidInternal: 
+    m_lastTime: -8585774136341588450
+    List:
+    - name: pl_mot
+      guid: f2c9ac7868b00146a266964fe07d716b
+      id: 3424941384
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 1660cfa76fc76f419637f5696d90a46e
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 5b5e29c3881db542b79490b995064fbc
+      - ElementName: pl_mot
+        ObjectType: 7
+        guid: f2c9ac7868b00146a266964fe07d716b
+      Path: SoundBanks\Default Work Unit\Pl\pl_mot
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Events
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+    ParentPath: Events\Default Work Unit
+    guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+    GuidInternal: 
+    m_lastTime: -8585774137394264293
+    List: []
+  - PhysicalPath: Events\Env.wwu
+    PathAndIcons:
+    - ElementName: Events
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+    - ElementName: Env
+      ObjectType: 12
+      guid: fa6d19aa11475248bb7545359409659e
+    ParentPath: Events\Default Work Unit\Env
+    guid: fa6d19aa11475248bb7545359409659e
+    GuidInternal: 
+    m_lastTime: -8585774137394064827
+    List:
+    - name: env_m01
+      guid: c7b61141b4670c498a796a01bbe2eec1
+      id: 792818075
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      Path: Events\Default Work Unit\Env\env_m01
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_env_m01_atmosphere_heavy
+      guid: ffab18161c4ee54ea75dc5edd690e002
+      id: 4224644313
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_atmosphere_heavy
+        ObjectType: 3
+        guid: ffab18161c4ee54ea75dc5edd690e002
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_atmosphere_heavy
+      maxAttenuation: 100
+      maxDuration: 12.08125
+      minDuration: 12.08125
+    - name: Play_env_m01_base_birds
+      guid: 3483683049c3e045af77d22bda6594be
+      id: 467916215
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_base_birds
+        ObjectType: 3
+        guid: 3483683049c3e045af77d22bda6594be
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_base_birds
+      maxAttenuation: 100
+      maxDuration: 125.78333
+      minDuration: 125.78333
+    - name: Play_env_m01_base_cave
+      guid: b42a3ff116ab4f42a62ba6c7ef8c31bc
+      id: 3637765342
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_base_cave
+        ObjectType: 3
+        guid: b42a3ff116ab4f42a62ba6c7ef8c31bc
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_base_cave
+      maxAttenuation: 100
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_env_m01_pos_birds
+      guid: 61f9015f2b5b2b4fae5007f70d1af629
+      id: 2676917488
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_birds
+        ObjectType: 3
+        guid: 61f9015f2b5b2b4fae5007f70d1af629
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_birds
+      maxAttenuation: 100
+      maxDuration: 23.583334
+      minDuration: 23.583334
+    - name: Play_env_m01_pos_insects
+      guid: bcca58c00119da4f98be3f8eabf17156
+      id: 763318039
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_insects
+        ObjectType: 3
+        guid: bcca58c00119da4f98be3f8eabf17156
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_insects
+      maxAttenuation: 100
+      maxDuration: 34.5
+      minDuration: 34.5
+    - name: Play_env_m01_pos_lake
+      guid: cf56bbf9733f324c9a3dd23f28fd44f4
+      id: 3204301025
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_lake
+        ObjectType: 3
+        guid: cf56bbf9733f324c9a3dd23f28fd44f4
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_lake
+      maxAttenuation: 100
+      maxDuration: 62.126686
+      minDuration: 62.126686
+    - name: Play_env_m01_pos_leaves_rustle
+      guid: a85e702550c4e74c89146bc72b60d503
+      id: 846114944
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_leaves_rustle
+        ObjectType: 3
+        guid: a85e702550c4e74c89146bc72b60d503
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_leaves_rustle
+      maxAttenuation: 100
+      maxDuration: 38.303062
+      minDuration: 7.099292
+    - name: Play_env_m01_pos_leaves_rustle_nowind
+      guid: b5cfb4bd6108b84bb3b657acd8cbb574
+      id: 341662512
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_leaves_rustle_nowind
+        ObjectType: 3
+        guid: b5cfb4bd6108b84bb3b657acd8cbb574
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_leaves_rustle_nowind
+      maxAttenuation: 100
+      maxDuration: 2.574292
+      minDuration: 2.574292
+    - name: Play_env_m01_pos_pond
+      guid: 8d21525547082d46b0a549f3f1eb00b7
+      id: 3230230181
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_pond
+        ObjectType: 3
+        guid: 8d21525547082d46b0a549f3f1eb00b7
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_pond
+      maxAttenuation: 100
+      maxDuration: 11.783334
+      minDuration: 11.783334
+    - name: Play_env_m01_pos_river
+      guid: 47b5183470241a458c69d1cc51026b2a
+      id: 2137656390
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_river
+        ObjectType: 3
+        guid: 47b5183470241a458c69d1cc51026b2a
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_river
+      maxAttenuation: 100
+      maxDuration: 124.10002
+      minDuration: 124.10002
+    - name: Play_env_m01_pos_sea_waves_close
+      guid: fee480727adf4e47a710da5e51727168
+      id: 2269971331
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_sea_waves_close
+        ObjectType: 3
+        guid: fee480727adf4e47a710da5e51727168
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_sea_waves_close
+      maxAttenuation: 100
+      maxDuration: 84.024185
+      minDuration: 84.024185
+    - name: Play_env_m01_pos_sea_waves_medium
+      guid: 2c5a8ff3d42d4e43a4262e8376178478
+      id: 2466719636
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_sea_waves_medium
+        ObjectType: 3
+        guid: 2c5a8ff3d42d4e43a4262e8376178478
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_sea_waves_medium
+      maxAttenuation: 100
+      maxDuration: 45.25002
+      minDuration: 45.25002
+    - name: Play_env_m01_pos_seagulls
+      guid: 3886e3e04106ab44824cad0e77fdf380
+      id: 4235748092
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_seagulls
+        ObjectType: 3
+        guid: 3886e3e04106ab44824cad0e77fdf380
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_seagulls
+      maxAttenuation: 100
+      maxDuration: 27.17502
+      minDuration: 15.15825
+    - name: Play_env_m01_pos_seashore
+      guid: f2de41c6a6188845bac6ef7ee809ef63
+      id: 2039408100
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_seashore
+        ObjectType: 3
+        guid: f2de41c6a6188845bac6ef7ee809ef63
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_seashore
+      maxAttenuation: 100
+      maxDuration: 32.800022
+      minDuration: 32.800022
+    - name: Play_env_m01_pos_shimmer
+      guid: 752d02a416a2b849a26946a512882fd6
+      id: 2340908993
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_shimmer
+        ObjectType: 3
+        guid: 752d02a416a2b849a26946a512882fd6
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_shimmer
+      maxAttenuation: 100
+      maxDuration: 12.933291
+      minDuration: 12.933291
+    - name: Play_env_m01_pos_steady_water
+      guid: fb70181aac89ef4d81db2146247cd6cd
+      id: 1776298094
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_steady_water
+        ObjectType: 3
+        guid: fb70181aac89ef4d81db2146247cd6cd
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_steady_water
+      maxAttenuation: 100
+      maxDuration: 85.54667
+      minDuration: 85.54667
+    - name: Play_env_m01_pos_waterfall
+      guid: b71dff7e7d10594da7e9c8032be1bcf5
+      id: 307210770
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_waterfall
+        ObjectType: 3
+        guid: b71dff7e7d10594da7e9c8032be1bcf5
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_waterfall
+      maxAttenuation: 100
+      maxDuration: 51.94996
+      minDuration: 51.94996
+    - name: Play_env_m01_pos_waterfall_small
+      guid: b16cc1b477a89a41ae114b5604a5ff2a
+      id: 1122186766
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_waterfall_small
+        ObjectType: 3
+        guid: b16cc1b477a89a41ae114b5604a5ff2a
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_waterfall_small
+      maxAttenuation: 100
+      maxDuration: 28.658083
+      minDuration: 28.658083
+    - name: Play_env_m01_pos_wind
+      guid: f2d25ce6b11e5848bc7cd998fb465772
+      id: 3099826098
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_wind
+        ObjectType: 3
+        guid: f2d25ce6b11e5848bc7cd998fb465772
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_wind
+      maxAttenuation: 100
+      maxDuration: 63.00827
+      minDuration: 63.00827
+    - name: Play_env_m01_pos_wind_trees
+      guid: cbb81e9386ee79418b50f4e0d3322565
+      id: 1172726548
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Env
+        ObjectType: 12
+        guid: fa6d19aa11475248bb7545359409659e
+      - ElementName: env_m01
+        ObjectType: 4
+        guid: c7b61141b4670c498a796a01bbe2eec1
+      - ElementName: Play_env_m01_pos_wind_trees
+        ObjectType: 3
+        guid: cbb81e9386ee79418b50f4e0d3322565
+      Path: Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_wind_trees
+      maxAttenuation: 100
+      maxDuration: 55.669895
+      minDuration: 46.141666
+  - PhysicalPath: Events\Pl.wwu
+    PathAndIcons:
+    - ElementName: Events
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+    - ElementName: Pl
+      ObjectType: 12
+      guid: 12ddda3ab342364b90b8500b570ca67d
+    ParentPath: Events\Default Work Unit\Pl
+    guid: 12ddda3ab342364b90b8500b570ca67d
+    GuidInternal: 
+    m_lastTime: -8585774137393915225
+    List:
+    - name: Pl_mot
+      guid: d97a250a2aca2d439272e731f0964cef
+      id: 3424941384
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      Path: Events\Default Work Unit\Pl\Pl_mot
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_pl_mot_foley_mvt
+      guid: e180b5b5d289854eafbb35e26445ff28
+      id: 497670973
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_foley_mvt
+        ObjectType: 3
+        guid: e180b5b5d289854eafbb35e26445ff28
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_foley_mvt
+      maxAttenuation: 0
+      maxDuration: 1.189646
+      minDuration: 1.056167
+    - name: Play_pl_mot_foley_mvt_underwater
+      guid: d163560a032d0449b9f7ca4d7fd4e14f
+      id: 3720299939
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_foley_mvt_underwater
+        ObjectType: 3
+        guid: d163560a032d0449b9f7ca4d7fd4e14f
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_foley_mvt_underwater
+      maxAttenuation: 0
+      maxDuration: 1.426333
+      minDuration: 1.258333
+    - name: Play_pl_mot_fs_bare
+      guid: f5baf3863673454eb5df244dbe4b07c0
+      id: 1590791414
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_bare
+        ObjectType: 3
+        guid: f5baf3863673454eb5df244dbe4b07c0
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare
+      maxAttenuation: 0
+      maxDuration: 1.9665
+      minDuration: 1.9665
+    - name: Play_pl_mot_fs_bare_jump
+      guid: 162afbd42d2e2c428668cac856958b3b
+      id: 2535771169
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_bare_jump
+        ObjectType: 3
+        guid: 162afbd42d2e2c428668cac856958b3b
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare_jump
+      maxAttenuation: 0
+      maxDuration: 1.094687
+      minDuration: 1.094687
+    - name: Play_pl_mot_fs_bare_land
+      guid: bc607f9ccaa4f34487a805f5b94ecca4
+      id: 3676832638
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_bare_land
+        ObjectType: 3
+        guid: bc607f9ccaa4f34487a805f5b94ecca4
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare_land
+      maxAttenuation: 0
+      maxDuration: 0.614917
+      minDuration: 0.614917
+    - name: Play_pl_mot_fs_concrete
+      guid: b6927a491b005241933e8568573b6433
+      id: 3080637483
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_concrete
+        ObjectType: 3
+        guid: b6927a491b005241933e8568573b6433
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete
+      maxAttenuation: 0
+      maxDuration: 0.626188
+      minDuration: 0.273875
+    - name: Play_pl_mot_fs_concrete_jump
+      guid: 6cab9f188ef8d649b2ff766bfea864c9
+      id: 1306850134
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_concrete_jump
+        ObjectType: 3
+        guid: 6cab9f188ef8d649b2ff766bfea864c9
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete_jump
+      maxAttenuation: 0
+      maxDuration: 0.339854
+      minDuration: 0.310042
+    - name: Play_pl_mot_fs_concrete_land
+      guid: b5c8b6ec48b67a418afbfe1ada133f61
+      id: 3669691297
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_concrete_land
+        ObjectType: 3
+        guid: b5c8b6ec48b67a418afbfe1ada133f61
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete_land
+      maxAttenuation: 0
+      maxDuration: 0.554667
+      minDuration: 0.4715
+    - name: Play_pl_mot_fs_dirt
+      guid: edc295692f6c6749bcce212b7fe77b9b
+      id: 3974941501
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_dirt
+        ObjectType: 3
+        guid: edc295692f6c6749bcce212b7fe77b9b
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_dirt
+      maxAttenuation: 0
+      maxDuration: 0.708354
+      minDuration: 0.535292
+    - name: Play_pl_mot_fs_grass
+      guid: 593e3e46e189254cae445a337123d62d
+      id: 654160592
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_grass
+        ObjectType: 3
+        guid: 593e3e46e189254cae445a337123d62d
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass
+      maxAttenuation: 0
+      maxDuration: 1.754208
+      minDuration: 1.754208
+    - name: Play_pl_mot_fs_grass_jump
+      guid: b9321a722ec3e741a4bc45c162cb1159
+      id: 3111818663
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_grass_jump
+        ObjectType: 3
+        guid: b9321a722ec3e741a4bc45c162cb1159
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass_jump
+      maxAttenuation: 0
+      maxDuration: 1.139
+      minDuration: 0.907167
+    - name: Play_pl_mot_fs_grass_land
+      guid: 0782a4e7de28854fa3988199539613c9
+      id: 749080668
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_grass_land
+        ObjectType: 3
+        guid: 0782a4e7de28854fa3988199539613c9
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass_land
+      maxAttenuation: 0
+      maxDuration: 1.611854
+      minDuration: 1.611854
+    - name: Play_pl_mot_fs_leaves
+      guid: f36312f5281f604ab2d6f0524ee6b39d
+      id: 1761647722
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_leaves
+        ObjectType: 3
+        guid: f36312f5281f604ab2d6f0524ee6b39d
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_leaves
+      maxAttenuation: 0
+      maxDuration: 1.213917
+      minDuration: 1.133375
+    - name: Play_pl_mot_fs_sand
+      guid: 86f49b8b32de5e47a8b0c5fdfd78ead3
+      id: 2505848860
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_sand
+        ObjectType: 3
+        guid: 86f49b8b32de5e47a8b0c5fdfd78ead3
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand
+      maxAttenuation: 0
+      maxDuration: 0.758583
+      minDuration: 0.716771
+    - name: Play_pl_mot_fs_sand_jump
+      guid: c1882eeadecbeb4a96faa3ef67db297b
+      id: 2274938739
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_sand_jump
+        ObjectType: 3
+        guid: c1882eeadecbeb4a96faa3ef67db297b
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand_jump
+      maxAttenuation: 0
+      maxDuration: 0.787271
+      minDuration: 0.621146
+    - name: Play_pl_mot_fs_sand_land
+      guid: 6b52f9353253704991bebdd2da298db7
+      id: 1637205776
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_sand_land
+        ObjectType: 3
+        guid: 6b52f9353253704991bebdd2da298db7
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand_land
+      maxAttenuation: 0
+      maxDuration: 0.733208
+      minDuration: 0.423813
+    - name: Play_pl_mot_fs_snow
+      guid: a27b1dc0195cfd46bb5e6060db76c978
+      id: 3061334687
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_snow
+        ObjectType: 3
+        guid: a27b1dc0195cfd46bb5e6060db76c978
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_snow
+      maxAttenuation: 0
+      maxDuration: 1.671604
+      minDuration: 1.463438
+    - name: Play_pl_mot_fs_snow_land
+      guid: 0aee3d286c30d64fa9c550df3f7b4a34
+      id: 3893508365
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_snow_land
+        ObjectType: 3
+        guid: 0aee3d286c30d64fa9c550df3f7b4a34
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_snow_land
+      maxAttenuation: 0
+      maxDuration: 2.8615
+      minDuration: 2.8615
+    - name: Play_pl_mot_fs_water
+      guid: 91e4b8f6098eee42b60219665403bfce
+      id: 3054663551
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_water
+        ObjectType: 3
+        guid: 91e4b8f6098eee42b60219665403bfce
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water
+      maxAttenuation: 0
+      maxDuration: 4.262667
+      minDuration: 4.262667
+    - name: Play_pl_mot_fs_water_jump
+      guid: 65900f2c3ad410428a91ce6d75432d23
+      id: 1906010698
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_water_jump
+        ObjectType: 3
+        guid: 65900f2c3ad410428a91ce6d75432d23
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water_jump
+      maxAttenuation: 0
+      maxDuration: 1.421333
+      minDuration: 1.421333
+    - name: Play_pl_mot_fs_water_land
+      guid: 1318ee61e13de3418fc03dd373e677bd
+      id: 2543743405
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_fs_water_land
+        ObjectType: 3
+        guid: 1318ee61e13de3418fc03dd373e677bd
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water_land
+      maxAttenuation: 0
+      maxDuration: 4.445729
+      minDuration: 4.445729
+    - name: Play_pl_mot_hit_bush
+      guid: 74c7e85cdc18e041a512d1c5cce4fb7f
+      id: 1394695102
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_hit_bush
+        ObjectType: 3
+        guid: 74c7e85cdc18e041a512d1c5cce4fb7f
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_hit_bush
+      maxAttenuation: 0
+      maxDuration: 2.298104
+      minDuration: 2.298104
+    - name: Play_pl_mot_hit_leaves
+      guid: 9def287c337b054e81e2e3fc5be8a918
+      id: 2012792292
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 4e624c942db2cb4bb2cc8680dc4b10b2
+      - ElementName: Pl
+        ObjectType: 12
+        guid: 12ddda3ab342364b90b8500b570ca67d
+      - ElementName: Pl_mot
+        ObjectType: 4
+        guid: d97a250a2aca2d439272e731f0964cef
+      - ElementName: Play_pl_mot_hit_leaves
+        ObjectType: 3
+        guid: 9def287c337b054e81e2e3fc5be8a918
+      Path: Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_hit_leaves
+      maxAttenuation: 0
+      maxDuration: 1.028813
+      minDuration: 0.700417
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Game Parameters
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 76175eae6055f84181232d7e2b152d72
+    ParentPath: Game Parameters\Default Work Unit
+    guid: 76175eae6055f84181232d7e2b152d72
+    GuidInternal: 
+    m_lastTime: -8585774841701604182
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: States
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 35962bc391af4747a18be586c1527827
+    ParentPath: States\Default Work Unit
+    guid: 35962bc391af4747a18be586c1527827
+    GuidInternal: 
+    m_lastTime: -8585774841701800658
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Switches
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: c4da0caca2b7bc45831b68f75ca5bc66
+    ParentPath: Switches\Default Work Unit
+    guid: c4da0caca2b7bc45831b68f75ca5bc66
+    GuidInternal: 
+    m_lastTime: -8585774841702137957
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Triggers
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: eddc3a874400374fa201025b107b7bf9
+    ParentPath: Triggers\Default Work Unit
+    guid: eddc3a874400374fa201025b107b7bf9
+    GuidInternal: 
+    m_lastTime: -8585774841701704252
+    List: []
+  ExpandedFileSystemItemIds: 
+  ExpandedWaapiItemIds: 06000000070000000800000009000000
+  AutoSyncSelection: 0
+  autoPopulateEnabled: 1
+  currentDataSource: 0
+  CurrentPluginConfig: 
