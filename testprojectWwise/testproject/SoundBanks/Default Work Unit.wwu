@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A7CF6016-C76F-416F-9637-F5696D90A46E}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{A7CF6016-C76F-416F-9637-F5696D90A46E}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="env" ID="{62EA2447-F003-4883-9301-E40702A4C9CF}" PersistMode="Reference"/>
+				<WorkUnit Name="Pl" ID="{C3295E5B-1D88-42B5-B794-90B995064FBC}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

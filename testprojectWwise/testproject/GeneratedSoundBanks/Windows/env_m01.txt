@@ -1,0 +1,51 @@
+Event	ID	Name			Wwise Object Path	Notes
+	307210770	Play_env_m01_pos_waterfall			\Default Work Unit\Env\env_m01\Play_env_m01_pos_waterfall	
+	341662512	Play_env_m01_pos_leaves_rustle_nowind			\Default Work Unit\Env\env_m01\Play_env_m01_pos_leaves_rustle_nowind	
+	467916215	Play_env_m01_base_birds			\Default Work Unit\Env\env_m01\Play_env_m01_base_birds	
+	763318039	Play_env_m01_pos_insects			\Default Work Unit\Env\env_m01\Play_env_m01_pos_insects	
+	846114944	Play_env_m01_pos_leaves_rustle			\Default Work Unit\Env\env_m01\Play_env_m01_pos_leaves_rustle	
+	1122186766	Play_env_m01_pos_waterfall_small			\Default Work Unit\Env\env_m01\Play_env_m01_pos_waterfall_small	
+	1172726548	Play_env_m01_pos_wind_trees			\Default Work Unit\Env\env_m01\Play_env_m01_pos_wind_trees	
+	1776298094	Play_env_m01_pos_steady_water			\Default Work Unit\Env\env_m01\Play_env_m01_pos_steady_water	
+	2039408100	Play_env_m01_pos_seashore			\Default Work Unit\Env\env_m01\Play_env_m01_pos_seashore	
+	2137656390	Play_env_m01_pos_river			\Default Work Unit\Env\env_m01\Play_env_m01_pos_river	
+	2269971331	Play_env_m01_pos_sea_waves_close			\Default Work Unit\Env\env_m01\Play_env_m01_pos_sea_waves_close	
+	2340908993	Play_env_m01_pos_shimmer			\Default Work Unit\Env\env_m01\Play_env_m01_pos_shimmer	
+	2466719636	Play_env_m01_pos_sea_waves_medium			\Default Work Unit\Env\env_m01\Play_env_m01_pos_sea_waves_medium	
+	2676917488	Play_env_m01_pos_birds			\Default Work Unit\Env\env_m01\Play_env_m01_pos_birds	
+	3099826098	Play_env_m01_pos_wind			\Default Work Unit\Env\env_m01\Play_env_m01_pos_wind	
+	3204301025	Play_env_m01_pos_lake			\Default Work Unit\Env\env_m01\Play_env_m01_pos_lake	
+	3230230181	Play_env_m01_pos_pond			\Default Work Unit\Env\env_m01\Play_env_m01_pos_pond	
+	3637765342	Play_env_m01_base_cave			\Default Work Unit\Env\env_m01\Play_env_m01_base_cave	
+	4224644313	Play_env_m01_atmosphere_heavy			\Default Work Unit\Env\env_m01\Play_env_m01_atmosphere_heavy	
+	4235748092	Play_env_m01_pos_seagulls			\Default Work Unit\Env\env_m01\Play_env_m01_pos_seagulls	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10510897	env_m01_pos_waterfall_small	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_waterfall_small_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_waterfall_small\env_m01_pos_waterfall_small		252855
+	75239317	env_m01_pos_seagulls_alt_02	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_seagulls_alt_02_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_seagulls\env_m01_pos_seagulls_alt_02		251534
+	123110183	env_m01_base_cave	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_base_cave_67C2DDB8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_base_cave\env_m01_base_cave		247007
+	133900500	env_m01_pos_seashore	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_seashore_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_seashore\env_m01_pos_seashore		283113
+	138631740	env_m01_pos_sea_waves_medium	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_sea_waves_medium_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_sea_waves_medium\env_m01_pos_sea_waves_medium		479006
+	237237725	env_m01_pos_leaves_rustle_nowind	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_leaves_rustle_nowind_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_leaves_rustle_nowind\env_m01_pos_leaves_rustle_nowind		22760
+	247250958	env_m01_pos_shimmer	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_shimmer_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_shimmer\env_m01_pos_shimmer		92167
+	252077621	env_m01_pos_seagulls_alt_01	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_seagulls_alt_01_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_seagulls\env_m01_pos_seagulls_alt_01		138613
+	316702742	env_m01_pos_leaves_rustle_alt_02	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_leaves_rustle_alt_02_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_leaves_rustle\env_m01_pos_leaves_rustle_alt_02		103689
+	358615567	env_m01_pos_leaves_rustle_alt_01	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_leaves_rustle_alt_01_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_leaves_rustle\env_m01_pos_leaves_rustle_alt_01		63117
+	378206330	env_m01_pos_leaves_rustle_alt_01-01	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_leaves_rustle_alt_01-01_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_leaves_rustle\env_m01_pos_leaves_rustle_alt_01-01		199592
+	404649888	env_m01_pos_steady_water	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_steady_water_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_steady_water\env_m01_pos_steady_water		898749
+	433662935	env_m01_pos_leaves_rustle_alt_03	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_leaves_rustle_alt_03_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_leaves_rustle\env_m01_pos_leaves_rustle_alt_03		114531
+	494938356	env_m01_pos_wind_trees_alt_01	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_wind_trees_alt_01_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_wind_trees\env_m01_pos_wind_trees_alt_01		383172
+	554415314	env_m01_base_birds	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_base_birds_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_base_birds\env_m01_base_birds		986010
+	571339690	env_m01_pos_pond	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_pond_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_pond\env_m01_pos_pond		92614
+	599687570	env_m01_atmosphere_heavy	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_atmosphere_heavy_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_atmosphere_heavy\env_m01_atmosphere_heavy		105406
+	647665751	env_m01_pos_insects	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_insects_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_insects\env_m01_pos_insects		274708
+	652693193	env_m01_pos_sea_waves_close	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_sea_waves_close_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_sea_waves_close\env_m01_pos_sea_waves_close		741742
+	689645164	env_m01_pos_seagulls_alt_03	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_seagulls_alt_03_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_seagulls\env_m01_pos_seagulls_alt_03		174518
+	692127209	env_m01_pos_river	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_river_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_river\env_m01_pos_river		1118336
+	736073087	env_m01_pos_leaves_rustle_alt_02-01	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_leaves_rustle_alt_02-01_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_leaves_rustle\env_m01_pos_leaves_rustle_alt_02-01		346483
+	745685918	env_m01_pos_birds	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_birds_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_birds\env_m01_pos_birds		211722
+	872615140	env_m01_pos_wind	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_wind_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_wind\env_m01_pos_wind		543423
+	996323561	env_m01_pos_wind_trees_alt_02	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_wind_trees_alt_02_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_wind_trees\env_m01_pos_wind_trees_alt_02		464583
+	1057484636	env_m01_pos_lake	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_lake_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_lake\env_m01_pos_lake		556969
+	1071824544	env_m01_pos_waterfall	D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\SFX\env_m01_pos_waterfall_A9411D89.wem		\Actor-Mixer Hierarchy\Default Work Unit\Env\env_m01\env_m01_pos_waterfall\env_m01_pos_waterfall		455094
+

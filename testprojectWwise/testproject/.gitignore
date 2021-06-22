@@ -1,0 +1,7 @@
+
+/testproject/
+**/cache./*
+*.validationcache
+*.wsettings
+*.akd
+

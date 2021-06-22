@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>D:\Unity\testprojectUnity\testprojectWwise\testproject\</ProjectRoot>
+		<SourceFilesRoot>D:\Unity\testprojectUnity\testprojectWwise\testproject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Unity\testprojectUnity\testprojectWwise\testproject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Unity\testprojectUnity\testprojectWwise\testproject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="792818075" Language="SFX" Hash="416875908">
+			<ObjectPath>\SoundBanks\Default Work Unit\env\env_m01</ObjectPath>
+			<ShortName>env_m01</ShortName>
+			<Path>env_m01.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4224644313" Name="Play_env_m01_atmosphere_heavy" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_atmosphere_heavy" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="12.081250" DurationMax="12.081250">
+					<IncludedMemoryFiles>
+						<File Id="599687570" Language="SFX">
+							<ShortName>env_m01_atmosphere_heavy.wav</ShortName>
+							<Path>SFX\env_m01_atmosphere_heavy_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="467916215" Name="Play_env_m01_base_birds" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_base_birds" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="125.783333" DurationMax="125.783333">
+					<IncludedMemoryFiles>
+						<File Id="554415314" Language="SFX">
+							<ShortName>env_m01_base_birds.wav</ShortName>
+							<Path>SFX\env_m01_base_birds_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3637765342" Name="Play_env_m01_base_cave" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_base_cave" MaxAttenuation="100.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="123110183" Language="SFX">
+							<ShortName>env_m01_base_cave.wav</ShortName>
+							<Path>SFX\env_m01_base_cave_67C2DDB8.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2676917488" Name="Play_env_m01_pos_birds" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_birds" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="23.583334" DurationMax="23.583334">
+					<IncludedMemoryFiles>
+						<File Id="745685918" Language="SFX">
+							<ShortName>env_m01_pos_birds.wav</ShortName>
+							<Path>SFX\env_m01_pos_birds_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="763318039" Name="Play_env_m01_pos_insects" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_insects" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="34.500000" DurationMax="34.500000">
+					<IncludedMemoryFiles>
+						<File Id="647665751" Language="SFX">
+							<ShortName>env_m01_pos_insects.wav</ShortName>
+							<Path>SFX\env_m01_pos_insects_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3204301025" Name="Play_env_m01_pos_lake" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_lake" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="62.126686" DurationMax="62.126686">
+					<IncludedMemoryFiles>
+						<File Id="1057484636" Language="SFX">
+							<ShortName>env_m01_pos_lake.wav</ShortName>
+							<Path>SFX\env_m01_pos_lake_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="846114944" Name="Play_env_m01_pos_leaves_rustle" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_leaves_rustle" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="7.099292" DurationMax="38.303062">
+					<IncludedMemoryFiles>
+						<File Id="316702742" Language="SFX">
+							<ShortName>env_m01_pos_leaves_rustle_alt_02.wav</ShortName>
+							<Path>SFX\env_m01_pos_leaves_rustle_alt_02_A9411D89.wem</Path>
+						</File>
+						<File Id="358615567" Language="SFX">
+							<ShortName>env_m01_pos_leaves_rustle_alt_01.wav</ShortName>
+							<Path>SFX\env_m01_pos_leaves_rustle_alt_01_A9411D89.wem</Path>
+						</File>
+						<File Id="378206330" Language="SFX">
+							<ShortName>env_m01_pos_leaves_rustle_alt_01-01.wav</ShortName>
+							<Path>SFX\env_m01_pos_leaves_rustle_alt_01-01_A9411D89.wem</Path>
+						</File>
+						<File Id="433662935" Language="SFX">
+							<ShortName>env_m01_pos_leaves_rustle_alt_03.wav</ShortName>
+							<Path>SFX\env_m01_pos_leaves_rustle_alt_03_A9411D89.wem</Path>
+						</File>
+						<File Id="736073087" Language="SFX">
+							<ShortName>env_m01_pos_leaves_rustle_alt_02-01.wav</ShortName>
+							<Path>SFX\env_m01_pos_leaves_rustle_alt_02-01_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="341662512" Name="Play_env_m01_pos_leaves_rustle_nowind" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_leaves_rustle_nowind" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="2.574292" DurationMax="2.574292">
+					<IncludedMemoryFiles>
+						<File Id="237237725" Language="SFX">
+							<ShortName>env_m01_pos_leaves_rustle_nowind.wav</ShortName>
+							<Path>SFX\env_m01_pos_leaves_rustle_nowind_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3230230181" Name="Play_env_m01_pos_pond" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_pond" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="11.783334" DurationMax="11.783334">
+					<IncludedMemoryFiles>
+						<File Id="571339690" Language="SFX">
+							<ShortName>env_m01_pos_pond.wav</ShortName>
+							<Path>SFX\env_m01_pos_pond_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2137656390" Name="Play_env_m01_pos_river" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_river" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="124.100021" DurationMax="124.100021">
+					<IncludedMemoryFiles>
+						<File Id="692127209" Language="SFX">
+							<ShortName>env_m01_pos_river.wav</ShortName>
+							<Path>SFX\env_m01_pos_river_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2269971331" Name="Play_env_m01_pos_sea_waves_close" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_sea_waves_close" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="84.024185" DurationMax="84.024185">
+					<IncludedMemoryFiles>
+						<File Id="652693193" Language="SFX">
+							<ShortName>env_m01_pos_sea_waves_close.wav</ShortName>
+							<Path>SFX\env_m01_pos_sea_waves_close_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2466719636" Name="Play_env_m01_pos_sea_waves_medium" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_sea_waves_medium" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="45.250019" DurationMax="45.250019">
+					<IncludedMemoryFiles>
+						<File Id="138631740" Language="SFX">
+							<ShortName>env_m01_pos_sea_waves_medium.wav</ShortName>
+							<Path>SFX\env_m01_pos_sea_waves_medium_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4235748092" Name="Play_env_m01_pos_seagulls" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_seagulls" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="15.158250" DurationMax="27.175020">
+					<IncludedMemoryFiles>
+						<File Id="75239317" Language="SFX">
+							<ShortName>env_m01_pos_seagulls_alt_02.wav</ShortName>
+							<Path>SFX\env_m01_pos_seagulls_alt_02_A9411D89.wem</Path>
+						</File>
+						<File Id="252077621" Language="SFX">
+							<ShortName>env_m01_pos_seagulls_alt_01.wav</ShortName>
+							<Path>SFX\env_m01_pos_seagulls_alt_01_A9411D89.wem</Path>
+						</File>
+						<File Id="689645164" Language="SFX">
+							<ShortName>env_m01_pos_seagulls_alt_03.wav</ShortName>
+							<Path>SFX\env_m01_pos_seagulls_alt_03_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2039408100" Name="Play_env_m01_pos_seashore" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_seashore" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="32.800022" DurationMax="32.800022">
+					<IncludedMemoryFiles>
+						<File Id="133900500" Language="SFX">
+							<ShortName>env_m01_pos_seashore.wav</ShortName>
+							<Path>SFX\env_m01_pos_seashore_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2340908993" Name="Play_env_m01_pos_shimmer" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_shimmer" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="12.933291" DurationMax="12.933291">
+					<IncludedMemoryFiles>
+						<File Id="247250958" Language="SFX">
+							<ShortName>env_m01_pos_shimmer.wav</ShortName>
+							<Path>SFX\env_m01_pos_shimmer_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1776298094" Name="Play_env_m01_pos_steady_water" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_steady_water" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="85.546669" DurationMax="85.546669">
+					<IncludedMemoryFiles>
+						<File Id="404649888" Language="SFX">
+							<ShortName>env_m01_pos_steady_water.wav</ShortName>
+							<Path>SFX\env_m01_pos_steady_water_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="307210770" Name="Play_env_m01_pos_waterfall" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_waterfall" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="51.949959" DurationMax="51.949959">
+					<IncludedMemoryFiles>
+						<File Id="1071824544" Language="SFX">
+							<ShortName>env_m01_pos_waterfall.wav</ShortName>
+							<Path>SFX\env_m01_pos_waterfall_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1122186766" Name="Play_env_m01_pos_waterfall_small" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_waterfall_small" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="28.658083" DurationMax="28.658083">
+					<IncludedMemoryFiles>
+						<File Id="10510897" Language="SFX">
+							<ShortName>env_m01_pos_waterfall_small.wav</ShortName>
+							<Path>SFX\env_m01_pos_waterfall_small_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3099826098" Name="Play_env_m01_pos_wind" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_wind" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="63.008270" DurationMax="63.008270">
+					<IncludedMemoryFiles>
+						<File Id="872615140" Language="SFX">
+							<ShortName>env_m01_pos_wind.wav</ShortName>
+							<Path>SFX\env_m01_pos_wind_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1172726548" Name="Play_env_m01_pos_wind_trees" ObjectPath="\Events\Default Work Unit\Env\env_m01\Play_env_m01_pos_wind_trees" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="46.141666" DurationMax="55.669895">
+					<IncludedMemoryFiles>
+						<File Id="494938356" Language="SFX">
+							<ShortName>env_m01_pos_wind_trees_alt_01.wav</ShortName>
+							<Path>SFX\env_m01_pos_wind_trees_alt_01_A9411D89.wem</Path>
+						</File>
+						<File Id="996323561" Language="SFX">
+							<ShortName>env_m01_pos_wind_trees_alt_02.wav</ShortName>
+							<Path>SFX\env_m01_pos_wind_trees_alt_02_A9411D89.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="837375629">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3424941384" Language="SFX" Hash="3930777033">
+			<ObjectPath>\SoundBanks\Default Work Unit\Pl\pl_mot</ObjectPath>
+			<ShortName>pl_mot</ShortName>
+			<Path>pl_mot.bnk</Path>
+			<IncludedEvents>
+				<Event Id="497670973" Name="Play_pl_mot_foley_mvt" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_foley_mvt" DurationType="OneShot" DurationMin="1.056167" DurationMax="1.189646">
+					<IncludedMemoryFiles>
+						<File Id="168940430" Language="SFX">
+							<ShortName>pl_mot_foley_mvt_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_foley_mvt_alt_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="729969195" Language="SFX">
+							<ShortName>pl_mot_foley_mvt_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_foley_mvt_alt_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="892581641" Language="SFX">
+							<ShortName>pl_mot_foley_mvt_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_foley_mvt_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3720299939" Name="Play_pl_mot_foley_mvt_underwater" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_foley_mvt_underwater" DurationType="OneShot" DurationMin="1.258333" DurationMax="1.426333">
+					<IncludedMemoryFiles>
+						<File Id="337759661" Language="SFX">
+							<ShortName>pl_mot_foley_mvt_underwater_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_foley_mvt_underwater_alt_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="663389285" Language="SFX">
+							<ShortName>pl_mot_foley_mvt_underwater_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_foley_mvt_underwater_alt_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="796321645" Language="SFX">
+							<ShortName>pl_mot_foley_mvt_underwater_alt_04.wav</ShortName>
+							<Path>SFX\pl_mot_foley_mvt_underwater_alt_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="855323076" Language="SFX">
+							<ShortName>pl_mot_foley_mvt_underwater_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_foley_mvt_underwater_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1590791414" Name="Play_pl_mot_fs_bare" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare" DurationType="OneShot" DurationMin="1.966500" DurationMax="1.966500">
+					<IncludedMemoryFiles>
+						<File Id="600928244" Language="SFX">
+							<ShortName>pl_mot_fs_bare_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_bare_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2535771169" Name="Play_pl_mot_fs_bare_jump" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare_jump" DurationType="OneShot" DurationMin="1.094687" DurationMax="1.094687">
+					<IncludedMemoryFiles>
+						<File Id="171053418" Language="SFX">
+							<ShortName>pl_mot_fs_bare_jump_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_bare_jump_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3676832638" Name="Play_pl_mot_fs_bare_land" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare_land" DurationType="OneShot" DurationMin="0.614917" DurationMax="0.614917">
+					<IncludedMemoryFiles>
+						<File Id="116145421" Language="SFX">
+							<ShortName>pl_mot_fs_bare_land_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_bare_land_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3080637483" Name="Play_pl_mot_fs_concrete" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete" DurationType="OneShot" DurationMin="0.273875" DurationMax="0.626188">
+					<IncludedMemoryFiles>
+						<File Id="774455911" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_alt_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="806397509" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_alt_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="960762346" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_alt_04.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_alt_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1017712873" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_alt_02_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1306850134" Name="Play_pl_mot_fs_concrete_jump" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete_jump" DurationType="OneShot" DurationMin="0.310042" DurationMax="0.339854">
+					<IncludedMemoryFiles>
+						<File Id="80622614" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_jump-01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_jump-01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="995507497" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_jump.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_jump_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3669691297" Name="Play_pl_mot_fs_concrete_land" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete_land" DurationType="OneShot" DurationMin="0.471500" DurationMax="0.554667">
+					<IncludedMemoryFiles>
+						<File Id="347306249" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_land_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_land_alt_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="1022557659" Language="SFX">
+							<ShortName>pl_mot_fs_concrete_land_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_concrete_land_alt_02_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3974941501" Name="Play_pl_mot_fs_dirt" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_dirt" DurationType="OneShot" DurationMin="0.535292" DurationMax="0.708354">
+					<IncludedMemoryFiles>
+						<File Id="152627946" Language="SFX">
+							<ShortName>pl_mot_fs_dirt_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_dirt_alt_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="171187010" Language="SFX">
+							<ShortName>pl_mot_fs_dirt_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_dirt_alt_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="257807432" Language="SFX">
+							<ShortName>pl_mot_fs_dirt_alt_04.wav</ShortName>
+							<Path>SFX\pl_mot_fs_dirt_alt_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="452902219" Language="SFX">
+							<ShortName>pl_mot_fs_dirt_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_fs_dirt_alt_03_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="654160592" Name="Play_pl_mot_fs_grass" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass" DurationType="OneShot" DurationMin="1.754208" DurationMax="1.754208">
+					<IncludedMemoryFiles>
+						<File Id="514810366" Language="SFX">
+							<ShortName>pl_mot_fs_grass_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_grass_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3111818663" Name="Play_pl_mot_fs_grass_jump" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass_jump" DurationType="OneShot" DurationMin="0.907167" DurationMax="1.139000">
+					<IncludedMemoryFiles>
+						<File Id="68266129" Language="SFX">
+							<ShortName>pl_mot_fs_grass_jump_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_grass_jump_alt_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="748617740" Language="SFX">
+							<ShortName>pl_mot_fs_grass_jump_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_grass_jump_alt_02_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="749080668" Name="Play_pl_mot_fs_grass_land" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass_land" DurationType="OneShot" DurationMin="1.611854" DurationMax="1.611854">
+					<IncludedMemoryFiles>
+						<File Id="945369374" Language="SFX">
+							<ShortName>pl_mot_fs_grass_land_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_grass_land_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1761647722" Name="Play_pl_mot_fs_leaves" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_leaves" DurationType="OneShot" DurationMin="1.133375" DurationMax="1.213917">
+					<IncludedMemoryFiles>
+						<File Id="362186391" Language="SFX">
+							<ShortName>pl_mot_fs_leaves_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_fs_leaves_alt_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="390710512" Language="SFX">
+							<ShortName>pl_mot_fs_leaves_alt_04.wav</ShortName>
+							<Path>SFX\pl_mot_fs_leaves_alt_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="467612744" Language="SFX">
+							<ShortName>pl_mot_fs_leaves_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_leaves_alt_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="775549666" Language="SFX">
+							<ShortName>pl_mot_fs_leaves_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_leaves_alt_02_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2505848860" Name="Play_pl_mot_fs_sand" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand" DurationType="OneShot" DurationMin="0.716771" DurationMax="0.758583">
+					<IncludedMemoryFiles>
+						<File Id="246661366" Language="SFX">
+							<ShortName>pl_mot_fs_sand_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_alt_01_3F75BDB9.wem</Path>
+						</File>
+						<File Id="647632400" Language="SFX">
+							<ShortName>pl_mot_fs_sand_alt_04.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_alt_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="708608284" Language="SFX">
+							<ShortName>pl_mot_fs_sand_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_alt_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="825665493" Language="SFX">
+							<ShortName>pl_mot_fs_sand_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_alt_02_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2274938739" Name="Play_pl_mot_fs_sand_jump" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand_jump" DurationType="OneShot" DurationMin="0.621146" DurationMax="0.787271">
+					<IncludedMemoryFiles>
+						<File Id="735382057" Language="SFX">
+							<ShortName>pl_mot_fs_sand_jump_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_jump_alt_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="962763388" Language="SFX">
+							<ShortName>pl_mot_fs_sand_jump_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_jump_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1637205776" Name="Play_pl_mot_fs_sand_land" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand_land" DurationType="OneShot" DurationMin="0.423813" DurationMax="0.733208">
+					<IncludedMemoryFiles>
+						<File Id="486729441" Language="SFX">
+							<ShortName>pl_mot_fs_sand_land_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_land_alt_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="703138725" Language="SFX">
+							<ShortName>pl_mot_fs_sand_land_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_sand_land_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3061334687" Name="Play_pl_mot_fs_snow" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_snow" DurationType="OneShot" DurationMin="1.463438" DurationMax="1.671604">
+					<IncludedMemoryFiles>
+						<File Id="162999613" Language="SFX">
+							<ShortName>pl_mot_fs_snow_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_fs_snow_alt_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="255944068" Language="SFX">
+							<ShortName>pl_mot_fs_snow_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_fs_snow_alt_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="437477076" Language="SFX">
+							<ShortName>pl_mot_fs_snow_alt_04.wav</ShortName>
+							<Path>SFX\pl_mot_fs_snow_alt_04_3F75BDB9.wem</Path>
+						</File>
+						<File Id="760902026" Language="SFX">
+							<ShortName>pl_mot_fs_snow_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_snow_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3893508365" Name="Play_pl_mot_fs_snow_land" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_snow_land" DurationType="OneShot" DurationMin="2.861500" DurationMax="2.861500">
+					<IncludedMemoryFiles>
+						<File Id="758159648" Language="SFX">
+							<ShortName>pl_mot_fs_snow_land_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_snow_land_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3054663551" Name="Play_pl_mot_fs_water" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water" DurationType="OneShot" DurationMin="4.262667" DurationMax="4.262667">
+					<IncludedMemoryFiles>
+						<File Id="326466814" Language="SFX">
+							<ShortName>pl_mot_fs_water_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_water_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1906010698" Name="Play_pl_mot_fs_water_jump" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water_jump" DurationType="OneShot" DurationMin="1.421333" DurationMax="1.421333">
+					<IncludedMemoryFiles>
+						<File Id="277799637" Language="SFX">
+							<ShortName>pl_mot_fs_water_jump_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_water_jump_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2543743405" Name="Play_pl_mot_fs_water_land" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water_land" DurationType="OneShot" DurationMin="4.445729" DurationMax="4.445729">
+					<IncludedMemoryFiles>
+						<File Id="198235469" Language="SFX">
+							<ShortName>pl_mot_fs_water_land_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_fs_water_land_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1394695102" Name="Play_pl_mot_hit_bush" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_hit_bush" DurationType="OneShot" DurationMin="2.298104" DurationMax="2.298104">
+					<IncludedMemoryFiles>
+						<File Id="122481561" Language="SFX">
+							<ShortName>pl_mot_hit_bush_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_hit_bush_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2012792292" Name="Play_pl_mot_hit_leaves" ObjectPath="\Events\Default Work Unit\Pl\Pl_mot\Play_pl_mot_hit_leaves" DurationType="OneShot" DurationMin="0.700417" DurationMax="1.028813">
+					<IncludedMemoryFiles>
+						<File Id="652657001" Language="SFX">
+							<ShortName>pl_mot_hit_leaves_alt_03.wav</ShortName>
+							<Path>SFX\pl_mot_hit_leaves_alt_03_3F75BDB9.wem</Path>
+						</File>
+						<File Id="670248845" Language="SFX">
+							<ShortName>pl_mot_hit_leaves_alt_02.wav</ShortName>
+							<Path>SFX\pl_mot_hit_leaves_alt_02_3F75BDB9.wem</Path>
+						</File>
+						<File Id="937582888" Language="SFX">
+							<ShortName>pl_mot_hit_leaves_alt_01.wav</ShortName>
+							<Path>SFX\pl_mot_hit_leaves_alt_01_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

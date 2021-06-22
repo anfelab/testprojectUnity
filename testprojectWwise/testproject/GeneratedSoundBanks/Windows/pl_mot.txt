@@ -1,0 +1,77 @@
+Event	ID	Name			Wwise Object Path	Notes
+	497670973	Play_pl_mot_foley_mvt			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_foley_mvt	
+	654160592	Play_pl_mot_fs_grass			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass	
+	749080668	Play_pl_mot_fs_grass_land			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass_land	
+	1306850134	Play_pl_mot_fs_concrete_jump			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete_jump	
+	1394695102	Play_pl_mot_hit_bush			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_hit_bush	
+	1590791414	Play_pl_mot_fs_bare			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare	
+	1637205776	Play_pl_mot_fs_sand_land			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand_land	
+	1761647722	Play_pl_mot_fs_leaves			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_leaves	
+	1906010698	Play_pl_mot_fs_water_jump			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water_jump	
+	2012792292	Play_pl_mot_hit_leaves			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_hit_leaves	
+	2274938739	Play_pl_mot_fs_sand_jump			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand_jump	
+	2505848860	Play_pl_mot_fs_sand			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_sand	
+	2535771169	Play_pl_mot_fs_bare_jump			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare_jump	
+	2543743405	Play_pl_mot_fs_water_land			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water_land	
+	3054663551	Play_pl_mot_fs_water			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_water	
+	3061334687	Play_pl_mot_fs_snow			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_snow	
+	3080637483	Play_pl_mot_fs_concrete			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete	
+	3111818663	Play_pl_mot_fs_grass_jump			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_grass_jump	
+	3669691297	Play_pl_mot_fs_concrete_land			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_concrete_land	
+	3676832638	Play_pl_mot_fs_bare_land			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_bare_land	
+	3720299939	Play_pl_mot_foley_mvt_underwater			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_foley_mvt_underwater	
+	3893508365	Play_pl_mot_fs_snow_land			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_snow_land	
+	3974941501	Play_pl_mot_fs_dirt			\Default Work Unit\Pl\Pl_mot\Play_pl_mot_fs_dirt	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	68266129	pl_mot_fs_grass_jump_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_grass_jump_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_grass_jump\pl_mot_fs_grass_jump_alt_01		9081
+	80622614	pl_mot_fs_concrete_jump-01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_jump-01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete_jump\pl_mot_fs_concrete_jump-01		2859
+	116145421	pl_mot_fs_bare_land_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_bare_land_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_bare_land\pl_mot_fs_bare_land_alt_01		5737
+	122481561	pl_mot_hit_bush_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_hit_bush_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_hit_bush\pl_mot_hit_bush_alt_01		21774
+	152627946	pl_mot_fs_dirt_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_dirt_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_dirt\pl_mot_fs_dirt_alt_02		4056
+	162999613	pl_mot_fs_snow_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_snow_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_snow\pl_mot_fs_snow_alt_03		12599
+	168940430	pl_mot_foley_mvt_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_foley_mvt_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_foley_mvt\pl_mot_foley_mvt_alt_03		7957
+	171053418	pl_mot_fs_bare_jump_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_bare_jump_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_bare_jump\pl_mot_fs_bare_jump_alt_01		11378
+	171187010	pl_mot_fs_dirt_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_dirt_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_dirt\pl_mot_fs_dirt_alt_01		5024
+	198235469	pl_mot_fs_water_land_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_water_land_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_water_land\pl_mot_fs_water_land_alt_01		40258
+	246661366	pl_mot_fs_sand_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand\pl_mot_fs_sand_alt_01		6510
+	255944068	pl_mot_fs_snow_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_snow_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_snow\pl_mot_fs_snow_alt_02		11687
+	257807432	pl_mot_fs_dirt_alt_04	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_dirt_alt_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_dirt\pl_mot_fs_dirt_alt_04		5799
+	277799637	pl_mot_fs_water_jump_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_water_jump_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_water_jump\pl_mot_fs_water_jump_alt_01		13312
+	326466814	pl_mot_fs_water_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_water_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_water\pl_mot_fs_water_alt_01		45367
+	337759661	pl_mot_foley_mvt_underwater_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_foley_mvt_underwater_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_foley_mvt_underwater\pl_mot_foley_mvt_underwater_alt_02		6950
+	347306249	pl_mot_fs_concrete_land_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_land_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete_land\pl_mot_fs_concrete_land_alt_01		5361
+	362186391	pl_mot_fs_leaves_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_leaves_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_leaves\pl_mot_fs_leaves_alt_03		13459
+	390710512	pl_mot_fs_leaves_alt_04	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_leaves_alt_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_leaves\pl_mot_fs_leaves_alt_04		13885
+	437477076	pl_mot_fs_snow_alt_04	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_snow_alt_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_snow\pl_mot_fs_snow_alt_04		12378
+	452902219	pl_mot_fs_dirt_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_dirt_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_dirt\pl_mot_fs_dirt_alt_03		4603
+	467612744	pl_mot_fs_leaves_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_leaves_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_leaves\pl_mot_fs_leaves_alt_01		13637
+	486729441	pl_mot_fs_sand_land_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_land_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand_land\pl_mot_fs_sand_land_alt_02		4315
+	514810366	pl_mot_fs_grass_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_grass_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_grass\pl_mot_fs_grass_alt_01		15579
+	600928244	pl_mot_fs_bare_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_bare_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_bare\pl_mot_fs_bare_alt_01		19041
+	647632400	pl_mot_fs_sand_alt_04	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_alt_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand\pl_mot_fs_sand_alt_04		5855
+	652657001	pl_mot_hit_leaves_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_hit_leaves_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_hit_leaves\pl_mot_hit_leaves_alt_03		6461
+	663389285	pl_mot_foley_mvt_underwater_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_foley_mvt_underwater_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_foley_mvt_underwater\pl_mot_foley_mvt_underwater_alt_03		7599
+	670248845	pl_mot_hit_leaves_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_hit_leaves_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_hit_leaves\pl_mot_hit_leaves_alt_02		9002
+	703138725	pl_mot_fs_sand_land_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_land_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand_land\pl_mot_fs_sand_land_alt_01		6577
+	708608284	pl_mot_fs_sand_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand\pl_mot_fs_sand_alt_03		5947
+	729969195	pl_mot_foley_mvt_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_foley_mvt_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_foley_mvt\pl_mot_foley_mvt_alt_02		9062
+	735382057	pl_mot_fs_sand_jump_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_jump_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand_jump\pl_mot_fs_sand_jump_alt_02		4999
+	748617740	pl_mot_fs_grass_jump_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_grass_jump_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_grass_jump\pl_mot_fs_grass_jump_alt_02		7320
+	758159648	pl_mot_fs_snow_land_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_snow_land_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_snow_land\pl_mot_fs_snow_land_alt_01		24786
+	760902026	pl_mot_fs_snow_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_snow_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_snow\pl_mot_fs_snow_alt_01		11654
+	774455911	pl_mot_fs_concrete_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete\pl_mot_fs_concrete_alt_01		6241
+	775549666	pl_mot_fs_leaves_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_leaves_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_leaves\pl_mot_fs_leaves_alt_02		15189
+	796321645	pl_mot_foley_mvt_underwater_alt_04	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_foley_mvt_underwater_alt_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_foley_mvt_underwater\pl_mot_foley_mvt_underwater_alt_04		7681
+	806397509	pl_mot_fs_concrete_alt_03	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_alt_03_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete\pl_mot_fs_concrete_alt_03		2335
+	825665493	pl_mot_fs_sand_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand\pl_mot_fs_sand_alt_02		6268
+	855323076	pl_mot_foley_mvt_underwater_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_foley_mvt_underwater_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_foley_mvt_underwater\pl_mot_foley_mvt_underwater_alt_01		7024
+	892581641	pl_mot_foley_mvt_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_foley_mvt_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_foley_mvt\pl_mot_foley_mvt_alt_01		8653
+	937582888	pl_mot_hit_leaves_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_hit_leaves_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_hit_leaves\pl_mot_hit_leaves_alt_01		10449
+	945369374	pl_mot_fs_grass_land_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_grass_land_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_grass_land\pl_mot_fs_grass_land_alt_01		13723
+	960762346	pl_mot_fs_concrete_alt_04	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_alt_04_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete\pl_mot_fs_concrete_alt_04		3250
+	962763388	pl_mot_fs_sand_jump_alt_01	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_sand_jump_alt_01_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_sand_jump\pl_mot_fs_sand_jump_alt_01		6583
+	995507497	pl_mot_fs_concrete_jump	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_jump_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete_jump\pl_mot_fs_concrete_jump		2738
+	1017712873	pl_mot_fs_concrete_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete\pl_mot_fs_concrete_alt_02		4142
+	1022557659	pl_mot_fs_concrete_land_alt_02	D:\Unity\githubtest\testproject\testprojectWwise\testproject\.cache\Windows\SFX\pl_mot_fs_concrete_land_alt_02_3F75BDB9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Pl\pl_mot\pl_mot_fs_concrete_land\pl_mot_fs_concrete_land_alt_02		4520
+

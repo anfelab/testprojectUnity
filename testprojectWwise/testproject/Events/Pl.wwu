@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3ADADD12-42B3-4B36-90B8-500B570CA67D}" SchemaVersion="103" RootDocumentID="{944C624E-B22D-4BCB-B2CC-8680DC4B10B2}" ParentDocumentID="{944C624E-B22D-4BCB-B2CC-8680DC4B10B2}">
+	<Events>
+		<WorkUnit Name="Pl" ID="{3ADADD12-42B3-4B36-90B8-500B570CA67D}" OwnerID="{944C624E-B22D-4BCB-B2CC-8680DC4B10B2}" PersistMode="Nested">
+			<ChildrenList>
+				<Folder Name="Pl_mot" ID="{0A257AD9-CA2A-432D-9272-E731F0964CEF}" ShortID="83357740">
+					<ChildrenList>
+						<Event Name="Play_pl_mot_fs_dirt" ID="{6995C2ED-6C2F-4967-BCCE-212B7FE77B9B}">
+							<ChildrenList>
+								<Action Name="" ID="{1F663FC0-4161-46CB-9F86-93F7319B5276}" ShortID="1062604102">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_dirt" ID="{9414A98D-6F32-4F18-B7D5-55B5CEB07696}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_grass" ID="{463E3E59-89E1-4C25-AE44-5A337123D62D}">
+							<ChildrenList>
+								<Action Name="" ID="{FBEB8E73-1A9F-467E-BF66-52878698D238}" ShortID="178316466">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_grass" ID="{D9301E19-DA28-47E1-BF54-2DD7D299646F}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_hit_bush" ID="{5CE8C774-18DC-41E0-A512-D1C5CCE4FB7F}">
+							<ChildrenList>
+								<Action Name="" ID="{21A4B097-4149-437F-BABF-62FA4963918F}" ShortID="367396645">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_hit_bush" ID="{4CB752E9-3869-4E71-BB47-3463FC69EC70}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_hit_leaves" ID="{7C28EF9D-7B33-4E05-81E2-E3FC5BE8A918}">
+							<ChildrenList>
+								<Action Name="" ID="{6DD77F1F-6153-4A94-A00E-66ECF6590697}" ShortID="152703078">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_hit_leaves" ID="{A03A7101-E397-4201-A995-D45AEBC0053B}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_foley_mvt_underwater" ID="{0A5663D1-2D03-4904-B9F7-CA4D7FD4E14F}">
+							<ChildrenList>
+								<Action Name="" ID="{A50A620E-9D35-4793-BA1E-FB4253CB7695}" ShortID="587537136">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_foley_mvt_underwater" ID="{282543E0-A87B-4B08-ABB3-6B82D9CE6CC5}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_bare" ID="{86F3BAF5-7336-4E45-B5DF-244DBE4B07C0}">
+							<ChildrenList>
+								<Action Name="" ID="{07E433CD-20C1-4648-91B5-E550FD922962}" ShortID="23393584">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_bare" ID="{80AA101F-1914-4CFA-A1AF-7F807CA0A678}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_bare_jump" ID="{D4FB2A16-2E2D-422C-8668-CAC856958B3B}">
+							<ChildrenList>
+								<Action Name="" ID="{6CCB65EF-06FD-41A8-AE11-0F21F48B7F9B}" ShortID="703860449">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_bare_jump" ID="{045D4D70-75F0-458F-ACDA-96D5842C8E9A}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_foley_mvt" ID="{B5B580E1-89D2-4E85-AFBB-35E26445FF28}">
+							<ChildrenList>
+								<Action Name="" ID="{BE08DFA6-DEC6-4F29-A2D2-DD3A01DD5E26}" ShortID="282729038">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_foley_mvt" ID="{4E12B515-8E75-42FC-9566-B9AC53F03842}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_bare_land" ID="{9C7F60BC-A4CA-44F3-87A8-05F5B94ECCA4}">
+							<ChildrenList>
+								<Action Name="" ID="{D4DBBDC7-7E4B-4C1A-8824-3D8D711908CE}" ShortID="441133239">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_bare_land" ID="{7AC16FBE-5EF7-4351-AD42-91E85425DA8C}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_concrete" ID="{497A92B6-001B-4152-933E-8568573B6433}">
+							<ChildrenList>
+								<Action Name="" ID="{A91C2AEF-0583-4BAA-9903-F9AE2CA98F03}" ShortID="77347692">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_concrete" ID="{2C8D608D-76F3-4983-A1F8-454F6AA3229B}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_concrete_land" ID="{ECB6C8B5-B648-417A-8AFB-FE1ADA133F61}">
+							<ChildrenList>
+								<Action Name="" ID="{EFC978C9-4A9A-4C37-99E1-7A78211A5DDC}" ShortID="1024487756">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_concrete_land" ID="{BC6C1350-DAF3-48EB-BEB0-231B440A1C55}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_concrete_jump" ID="{189FAB6C-F88E-49D6-B2FF-766BFEA864C9}">
+							<ChildrenList>
+								<Action Name="" ID="{CEE20BCF-BA90-49F1-A4ED-4FE5468A8467}" ShortID="965675382">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_concrete_jump" ID="{ED263EF4-836C-4369-8E48-BCFE0CEBC5B2}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_snow" ID="{C01D7BA2-5C19-46FD-BB5E-6060DB76C978}">
+							<ChildrenList>
+								<Action Name="" ID="{BBD525DD-A3F8-4B14-89EF-ACF84CCFB684}" ShortID="273324229">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_snow" ID="{30ABAE50-ED7C-4F74-88FB-5A270E00E64D}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_sand_jump" ID="{EA2E88C1-CBDE-4AEB-96FA-A3EF67DB297B}">
+							<ChildrenList>
+								<Action Name="" ID="{870B4446-3CB7-4E82-9BD5-DE984B3F3005}" ShortID="906675663">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_sand_jump" ID="{0919BEED-292F-4A91-AC8F-4B4200B8E6FB}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_grass_jump" ID="{721A32B9-C32E-41E7-A4BC-45C162CB1159}">
+							<ChildrenList>
+								<Action Name="" ID="{14406BAE-EA2E-4B0C-BE42-4E543ECF0555}" ShortID="860974718">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_grass_jump" ID="{DD88A943-5827-4104-A841-0EED912C2DAE}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_snow_land" ID="{283DEE0A-306C-4FD6-A9C5-50DF3F7B4A34}">
+							<ChildrenList>
+								<Action Name="" ID="{889C252F-30FC-4945-83C2-B00FFA1F8748}" ShortID="329164025">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_snow_land" ID="{5A6DB650-97AA-48D2-90FC-AFDF545790F8}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_water_jump" ID="{2C0F9065-D43A-4210-8A91-CE6D75432D23}">
+							<ChildrenList>
+								<Action Name="" ID="{99DEF271-279B-4506-B684-04C47EF95700}" ShortID="467993844">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_water_jump" ID="{8CEF6E38-1A27-4087-8476-C65AFFEDCF2D}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_sand" ID="{8B9BF486-DE32-475E-A8B0-C5FDFD78EAD3}">
+							<ChildrenList>
+								<Action Name="" ID="{2B476766-6D6F-45F5-9388-186E5937FE55}" ShortID="44219115">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_sand" ID="{812CE731-0344-4C9D-ACB8-BBEA08068C5A}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_water" ID="{F6B8E491-8E09-42EE-B602-19665403BFCE}">
+							<ChildrenList>
+								<Action Name="" ID="{8C342650-5F42-4A2A-A9C3-A0C51008AA0F}" ShortID="1055900501">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_water" ID="{0442B1AF-FD87-4C83-8429-DC73047E35B7}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_leaves" ID="{F51263F3-1F28-4A60-B2D6-F0524EE6B39D}">
+							<ChildrenList>
+								<Action Name="" ID="{9029DA8F-E7BB-4531-B97A-39DE4E1A391F}" ShortID="590973762">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_leaves" ID="{9857144B-6B2A-45D8-BB1B-E979E5603F13}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_water_land" ID="{61EE1813-3DE1-41E3-8FC0-3DD373E677BD}">
+							<ChildrenList>
+								<Action Name="" ID="{2F3124FE-0C5D-4B77-8028-F3D776ADCEA2}" ShortID="759382519">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_water_land" ID="{48845AEC-B7F3-45CE-A6FA-FD0582BEA146}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_grass_land" ID="{E7A48207-28DE-4F85-A398-8199539613C9}">
+							<ChildrenList>
+								<Action Name="" ID="{383B5377-2113-46E3-80FE-4C2AA1AB87E3}" ShortID="299532987">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_grass_land" ID="{80DFB9B4-11F7-4C2E-987B-560E63CBD36C}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_pl_mot_fs_sand_land" ID="{35F9526B-5332-4970-91BE-BDD2DA298DB7}">
+							<ChildrenList>
+								<Action Name="" ID="{6E524137-6901-4208-B5D4-97D4F2CB74A8}" ShortID="183900061">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="pl_mot_fs_sand_land" ID="{B389F37A-54D5-4208-93C5-8A51BD28D521}" WorkUnitID="{1BC6C04A-1765-49D2-A33E-8961421B3A4D}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
